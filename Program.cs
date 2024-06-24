@@ -12,7 +12,7 @@ namespace PostSap_GR_TR
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
-            Application.Run(new BBL_test());
+            Application.Run(new Project_test());
             Application.Exit();
         }
     }

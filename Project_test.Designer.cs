@@ -1,7 +1,7 @@
 ﻿
 namespace PostSap_GR_TR
 {
-    partial class BBL_test
+    partial class Project_test
     {
         /// <summary>
         /// Required designer variable.

@@ -21,9 +21,9 @@ using System.Diagnostics;
 
 namespace PostSap_GR_TR
 {
-    public partial class BBL_test : Form
+    public partial class Project_test : Form
     {
-        public BBL_test()
+        public Project_test()
         {
             InitializeComponent();
         }
